@@ -7,7 +7,4 @@ TwDrvFifo_ioctl | libtouchscreen.so
 TwDrvFifo_open | libtouchscreen.so
 TwDrvFifo_read | libtouchscreen.so
 TwDrvFifo_write | libtouchscreen.so
-NetGlobals::NetSpriteUnRegister(NetSprite*, unsigned char) | libmeritbasegame.so
-NetGlobals::NetSpriteUnRegister(NetSprite*, unsigned char) | libmessagesystem.so
-USBIO::JoystickFound() | libmeritbasegame.so
 _alemu_stricmp | cell_chaos.so
